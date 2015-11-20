@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BurgerMenu source="POS SalesMate DS-100" >
+   <Burger size="S" name="ChickenBurger" oz="2.5" price="$6.50" resource="http://dynawebs.net/assets/images/ChickenBurger.png">
+      <ID>10560440</ID>
+   </Burger>
+   <Burger size="L" name="Signature burger" oz="5.3" price="$8.50" resource="http://dynawebs.net/assets/images/SignatureBurger.png">
+      <ID>10560340</ID>
+   </Burger>
+   <Burger size="L" name="Vegan Burger" oz="6.0" price="$9.50" resource="http://dynawebs.net/assets/images/VeganBurger.png">
+      <ID>10510440</ID>
+   </Burger>
+   <Burger size="XL" name="King Vegan Burger" oz="7.0" price="$9.75" resource="http://dynawebs.net/assets/images/KingVeganBurger.png">
+      <ID>10560412</ID>
+   </Burger>
+   <Burger size="XL" name="Hungry choice (the works)" oz="7.0" price="$12.50" resource="http://dynawebs.net/assets/images/HungryChoise.png.png">
+      <ID>10440441</ID>
+   </Burger>
+   <Burger size="XXL" name="King Burger" oz="8.0" price="$13.00" resource="http://dynawebs.net/assets/images/KingBurger.png">
+      <ID>10362440</ID>
+   </Burger>
+</BurgerMenu>
